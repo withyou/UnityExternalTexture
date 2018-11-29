@@ -24,6 +24,8 @@ Make Project.
 
 使用Unity打开`UnityProject`
 
+*Notice*  在Player Settings 中 禁用multithreaded rendering
+
 Build and Run
 
 *Notice* 安装后会出现两个应用图标，其中一个会进入一个错误的场景，此场景中功能不能正常演示。确认通过第二个图标进入应用
