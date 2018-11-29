@@ -26,6 +26,8 @@ Copy(or replace) the above `app-debug.aar` file to `\UnityProject\Assets\Plugin\
 
 Open the `UnityProject` in Unity.
 
+*Notice* Check if you have multithreaded rendering enabled. Disable it if so.
+
 Build apk and run in your Android phone
 
 *Notice* When installed, there will be 2 icons of this app, one of which leads to a wrong Activity. Make sure you start this app from the second icon. 
